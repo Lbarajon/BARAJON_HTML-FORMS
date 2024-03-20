@@ -17,27 +17,6 @@ body {
     align-items: center;
 }
 
-a {
-    display: grid;
-    height: 80px;
-    width: 250px;
-    background: #FDEDEC;
-    position: absolute;
-    margin: auto;
-    border: 1px solid #271e00;
-    border-radius: 5px;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    place-items: center;
-    font-family: "Poppins", sans-serif;
-    font-weight: bold;
-    color: #050505;
-    text-decoration: none;
-    letter-spacing: 1px;
-}
-
 .speaker-form-header {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
